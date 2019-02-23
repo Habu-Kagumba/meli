@@ -1,0 +1,12 @@
+{
+    "description": "Testing consignment",
+    "weight": 450,
+    "containers": [
+        {
+            "customer_id": "cust0001",
+            "user_id": "user0001",
+            "origin": "Nairobi, Kenya"
+        }
+    ],
+    "vessel_id": "vessel0001"
+}
